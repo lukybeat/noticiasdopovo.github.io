@@ -1,2 +1,2 @@
-http://ramosmd.github.io
+http://noticiasdopovo.github.io
 # noticiasdopovo.github.io
