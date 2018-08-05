@@ -1,1 +1,1 @@
-# noticiasdopovo.github.io
+# http://noticiasdopovo.github.io
